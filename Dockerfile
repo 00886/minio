@@ -1,1 +1,2 @@
-FROM docker.io/minio/minio:latest
+#FROM docker.io/minio/minio:latest
+FROM minio/minio:RELEASE.2024-05-28T17-19-04Z
